@@ -5,6 +5,7 @@ Based on these findings, certain insights can be pulled out. Namely, students sh
 I believe that students like myself could make use of these insights to maximize academic performance. Furthermore, educational institutions should implement programs to reduce financial stress and promote healthier lifestyles among students, These would no doubt improve financial, mental, and of course, academic well-being. 
 
 Repository Contents
+
 SQL Script:
 Habits-CGPA Analysis.sql — Contains SQL queries for cleaning and preparing the dataset. 
 
