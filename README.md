@@ -7,13 +7,18 @@ I believe that students like myself could make use of these insights to maximize
 Repository Contents
 
 SQL Script:
+
 Habits-CGPA Analysis.sql — Contains SQL queries for cleaning and preparing the dataset. 
 
 Dataset:
+
 Student_Depression_Dataset — The original dataset
+
 Student_Data — The cleaned data that I pulled insights from and visualized on tableau. 
 
 Visualization:
+
 Habits-CGPA Analysis.twb — The Tableau workbook used to create the dashboard.
+
 The dashboard is also publicly available here: https://public.tableau.com/app/profile/oluwanifemi.olufela.yesufu/viz/Habits-CGPARelationship/Dashboard1?publish=yes 
 
